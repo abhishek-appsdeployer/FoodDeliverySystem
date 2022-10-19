@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/abhi199kr/FoodDeliverySystem/static/css/main.3952027c.css",
-    "main.js": "/abhi199kr/FoodDeliverySystem/static/js/main.57f7c785.js",
+    "main.js": "/abhi199kr/FoodDeliverySystem/static/js/main.6d36a0b0.js",
     "static/js/787.d4dfe564.chunk.js": "/abhi199kr/FoodDeliverySystem/static/js/787.d4dfe564.chunk.js",
     "static/media/gobhialoo.png": "/abhi199kr/FoodDeliverySystem/static/media/gobhialoo.8a03bd5f589ce77aed6b.png",
     "static/media/chickenfingers.webp": "/abhi199kr/FoodDeliverySystem/static/media/chickenfingers.6d43bcc0af961200c9db.webp",
@@ -29,11 +29,11 @@
     "static/media/logo.svg": "/abhi199kr/FoodDeliverySystem/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/abhi199kr/FoodDeliverySystem/index.html",
     "main.3952027c.css.map": "/abhi199kr/FoodDeliverySystem/static/css/main.3952027c.css.map",
-    "main.57f7c785.js.map": "/abhi199kr/FoodDeliverySystem/static/js/main.57f7c785.js.map",
+    "main.6d36a0b0.js.map": "/abhi199kr/FoodDeliverySystem/static/js/main.6d36a0b0.js.map",
     "787.d4dfe564.chunk.js.map": "/abhi199kr/FoodDeliverySystem/static/js/787.d4dfe564.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3952027c.css",
-    "static/js/main.57f7c785.js"
+    "static/js/main.6d36a0b0.js"
   ]
 }
