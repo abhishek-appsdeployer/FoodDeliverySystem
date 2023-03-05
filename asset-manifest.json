@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/FoodDeliverySystem/static/css/main.2320f59f.css",
-    "main.js": "/FoodDeliverySystem/static/js/main.20b0ad1d.js",
+    "main.css": "/FoodDeliverySystem/static/css/main.a7393933.css",
+    "main.js": "/FoodDeliverySystem/static/js/main.6607d5af.js",
     "static/js/787.d4dfe564.chunk.js": "/FoodDeliverySystem/static/js/787.d4dfe564.chunk.js",
     "static/media/gobhialoo.png": "/FoodDeliverySystem/static/media/gobhialoo.8a03bd5f589ce77aed6b.png",
     "static/media/chickenfingers.webp": "/FoodDeliverySystem/static/media/chickenfingers.6d43bcc0af961200c9db.webp",
@@ -27,12 +27,12 @@
     "static/media/dosa.jpg": "/FoodDeliverySystem/static/media/dosa.c553c71f3380d387b102.jpg",
     "static/media/sattu.webp": "/FoodDeliverySystem/static/media/sattu.eee4d48b945952bedb93.webp",
     "index.html": "/FoodDeliverySystem/index.html",
-    "main.2320f59f.css.map": "/FoodDeliverySystem/static/css/main.2320f59f.css.map",
-    "main.20b0ad1d.js.map": "/FoodDeliverySystem/static/js/main.20b0ad1d.js.map",
+    "main.a7393933.css.map": "/FoodDeliverySystem/static/css/main.a7393933.css.map",
+    "main.6607d5af.js.map": "/FoodDeliverySystem/static/js/main.6607d5af.js.map",
     "787.d4dfe564.chunk.js.map": "/FoodDeliverySystem/static/js/787.d4dfe564.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2320f59f.css",
-    "static/js/main.20b0ad1d.js"
+    "static/css/main.a7393933.css",
+    "static/js/main.6607d5af.js"
   ]
 }
